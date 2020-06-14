@@ -1,6 +1,6 @@
 ## About this book:
 
-This book began life as a 'Peer-Evaluation with Moodle Workshops' course, taught in the University of the Basque Country's teacher-training programme.
+This book began life as a 'Peer-Assessment with Moodle Workshops' course, taught in the University of the Basque Country's teacher-training programme.
 
 Since the initial course, other Further and Higher education institutions have adopted subsequent editions of the course as a professional development tool. Aimed at university teaching staff, the course has been used widely to increasing the quality of teaching and learning in these institutions.
 
@@ -31,15 +31,15 @@ This expression certainly raised an eyebrow at the time. But the more I thought 
 
 In the eyes of our students, we are examiner first and teacher second. We like to think of ourselves a collaborators, working and learning alongside our students, but in their eyes, we are judge and jury. 
 
-Professor Eric Mazur of Harvard University described summative assessment--the exam--as 'the silent killer of learning'. For many years, I have felt that the exam as the villain of the piece. Though we are supposed to be teachers, 'the exam' (and the varying roles it forces us to play), regularly expends more of our time and energy than teaching does.
+Professor Eric Mazur of Harvard University described summative assessment--the exam--as 'the silent killer of learning'. For many years, I too have felt that the exam as the villain of the piece. Though we are supposed to be teachers, we are regularly required to dedicate more of our energy to 'the exam' (and the varying roles it forces us to play), than to developing great learning experiences.
 
-Discovering computer-assisted peer-evaluation has restored my faith in education. Preparing these Workshops has caused me to put it to the test intellectually **THIS ISN'T GOOD**. Nowadays, I feel that the design of each activity, and creating each rubric is worth spending time on. I see that it bears fruit. For that reason, I have tried to simplify the technical aspects so that they are not blockers for anyone who wants to jump right in. Likewise, I strongly believe that the goal is great peer-evaluation, and not great technology. It should never become an obstacle.
+Discovering computer-assisted peer-evaluation has restored my faith in education. Preparing these Workshops has caused me to put it to the test intellectually **THIS ISN'T GOOD**. Nowadays, I feel that the design of each activity, and creating each rubric is worth spending time on. I see that it bears fruit. For that reason, I have tried to simplify the technical aspects so that they are not blockers for anyone who wants to jump right in. Likewise, I strongly believe that the goal is great peer-assessment, and not great technology. It should never become an obstacle.
 
-# What is a peer-assessed tutorial?
+# What is a peer-assessment Workshop?
 
-In a paired activity assigned to students, now that, as well as handing in the exercise, we ask them to evaluate their partner's work, either in the form of a questionaire, a summary, or some other framework provided by the teacher. This is just like we have been doing in classrooms since the year dot, sharing simple forms between pairs and calculating a mark by hand. Nothing new there.
+In a paired activity assigned to students, rather than simply submitting the exercise, we also require them to assess submissions from other students. This can be in the form of a simple questionaire, rubric, or some other framework provided by the teacher. Teachers have been doing this kind of thing in classrooms since the year dot, providing simple forms between pairs and calculating a mark by hand. Nothing new there.
 
-# What does Moodle allow us to do?
+# Where does Moodle come in?
 
 This free, open-source software allows us to do the above online, but that also allows us to put order to the submitted work and the teacher's crosses in a way that a student can peer-evalulate not just their partner's or group's work, but many more. Moodle will also help with the distrubition of feedback between students and calculating scores for work. It will publish and share those results too. Teachers can of course do this by hand, but at the cost of a lot of extra work and obscene amount of time.
 
