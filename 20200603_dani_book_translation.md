@@ -2,12 +2,13 @@
 
 This book began life as a 'Peer-Evaluation with Moodle Workshops' course, taught in the University of the Basque Country's teacher-training programme.
 
-Since then, other Further and Higher eductation institutions have used subsequent editions of the course as a professional development tool aimed at teaching staff, with the aim of increasing the quality of teaching and learning.
+Since the initial course, other Further and Higher education institutions have adopted subsequent editions of the course as a professional development tool. Aimed at university teaching staff, the course has been used widely to increasing the quality of teaching and learning in these institutions.
 
-The present book is the result of interest shown by participants over many years to gather the many resources used in one volume as a reference.
+For many years, participants in the course have shown an interest in gathering the course materials into one volume, the result of which is contained in the present volume.
 
 ## About the author:
-Daniel García González has been Professor of Journalism at the University of the Basque Country since 2001, where has taught writing, design, business, and computer graphics. His main research interest at present is the application of technology in journalism.
+
+Daniel García González has taught Journalism at the University of the Basque Country since 2001, covering writing, design, business, and computer graphics. His main research interest at present is the application of technology in journalism.
 
 He holds degrees in Advertising & Public Relations and Journalism from the University of the Basque Country; and a degree in Law from the University of Deusto. He obtained his doctorate with a thesis on the use of computer graphics in the Spanish press. He has also worked as a graphic artist and visualisation designer at the El Correo newspaper in Bilbao, Spain.
 
@@ -17,16 +18,16 @@ He would be delighted to receive any comments, questions, doubts or suggestions.
 
 ## Additional Content
 
-More information, forums, FAQs, sample workshops etc. can be found at
+More information, forums, FAQs, sample Workshops etc. can be found at
 ### www.teachtwice.net
 
 # Origins
 
-## El villano de toda esta historia
+## The villain of the piece
 
-Around the turn of the century, when I was still a new teacher and still brimming with enthusiam for teaching (those halcyon days!), two students accosted me in the corridor to tell me about a worry. They had heard a whisper that the morning group were progressing more slowly than they were, and had covered less ground than their group, the afternoon one. They were 'learning more', they grumbled, and they worried that their exam would cover more and would be more demanding than the morning cohort's. So what's new, right? But the bit of that conversation that I'll never forget is a couple of words that one of the students to refer to their legitimate interest that the tests be balanced, asserting stoney-faced his "right to know less".
+Around the turn of the century, I was a new teacher and still brimming with enthusiasm for teaching (those halcyon days!). One day, two students from one of my afternoon groups accosted me in the corridor to ask me about something that was bothering them. They had heard whispers that the morning group were progressing more slowly than theirs, and had covered less course material. The two students complained that the morning group were "learning more than us". They were concerned that their exam would be more demanding than the morning group's. There's nothing new about students complaining, so why do I mention this? Well, one of the students, insisting that the exams be fair and balanced, said with a straight face that he had "the right to know less".
 
-The expression raised an eyebrow at the time. But the more I thought about it, the more I realised that it reveals a deeper, slightly unnerving truth about our work. In the eyes of our students, we are examiner first and teachers second. While we think of ourselves as working collaboratoratively with our students,  in the eyes of our students, we are **judge, jury and executioner**. Can you imagine someone going to a concert, a cinema or a restaurant with that attitude? _"Well pardon me! I may have paid the bill, but it's my right to not hear the band, to not see the film, to not eat a single thing!"_
+This expression certainly raised an eyebrow at the time. But the more I thought about it, the more I realised that it reveals a deeper, slightly unnerving truth about our work. In the eyes of our students, we are examiner first and teachers second. We like to think of ourselves a collaborators, working and learning alongside our students, but in their eyes, we are **judges and police**. It's hard to imagine someone going to a concert, a cinema or a restaurant with a similar attitude _"Well pardon me! I am paying for this, but... I insist the band doesn't play. I insist they don't show the whole film. I insist the portions should be small!"_
 
 And yet that's the way it is in the classroom. When, for whatever reason, we cut a class short, the general response is gleeful. Likewise, when we utter the magic words "...well, we're almost out of time. Let's leave it there", there has never been a known case, anywhere, that .... BLAH BLAH
 
