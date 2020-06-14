@@ -1,6 +1,6 @@
 ## About this book:
 
-The first edition of the 'Peer-Evaluation with Moodle' workshops was taught in the University of the Basque Country's teacher-training programme.
+This book began life as a 'Peer-Evaluation with Moodle Workshops' course, taught in the University of the Basque Country's teacher-training programme.
 
 Since then, other Further and Higher eductation institutions have used subsequent editions of the course as a professional development tool aimed at teaching staff, with the aim of increasing the quality of teaching and learning.
 
