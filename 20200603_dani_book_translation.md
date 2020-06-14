@@ -2,9 +2,9 @@
 
 This book began life as a 'Peer-Assessment with Moodle Workshops' course, taught in the University of the Basque Country's teacher-training programme.
 
-Since the initial course, other Further and Higher education institutions have adopted subsequent editions of the course as a professional development tool. Aimed at university teaching staff, the course has been used widely to increasing the quality of teaching and learning in these institutions.
+Since the initial course, other Further and Higher education institutions have adopted subsequent editions as a professional development tool. Aimed at university teaching staff, the course has been used widely to increase the quality of teaching and learning in these institutions.
 
-For many years, participants in the course have shown an interest in gathering the course materials into one volume, the result of which is contained in the present volume.
+Over the years, course participants have often shown an interest in having the course materials gathered into one volume, the result of which is contained in the present edition.
 
 ## About the author:
 
@@ -25,9 +25,9 @@ More information, forums, FAQs, sample Workshops etc. can be found at
 
 ## The villain of the piece
 
-Around the turn of the century, I was a new teacher and still brimming with enthusiasm for teaching (those halcyon days!). One day, two students from one of my afternoon groups accosted me in the corridor to ask me about something that was bothering them. They had heard whispers that the morning group were progressing more slowly than theirs, and had covered less course material. The two students complained that the morning group were "learning more than us". They were concerned that their exam would be more demanding than the morning group's. There's nothing new about students complaining, so why do I mention this? Well, one of the students, insisting that the exams be fair and balanced, said with a straight face that he had "the right to know less".
+Around the turn of the century, I was a new teacher and still brimming with enthusiasm for teaching (yes, those halcyon days!). One day, two students from one of my afternoon groups accosted me in the corridor to ask me about something that was bothering them. They had heard whispers that the morning group were progressing more slowly than theirs, and had covered less course material. The two students complained that the morning group were "learning more than us". They were concerned that their exam would be more demanding than the morning group's. There's nothing new about students complaining, right? The thing is, one of the students, insisting that the exams be fair and balanced, said with a straight face that he had "the right to know less".
 
-This expression certainly raised an eyebrow at the time. But the more I thought about it, the more I realised that it reveals a deeper, slightly unnerving truth about our work. It's hard to imagine someone going to a concert, a cinema or a restaurant with a similar attitude _"Well pardon me! I am paying for this, but... I insist the band doesn't play. I insist they don't show the whole film. I insist the portions should be small!"_ And yet that's the way it is in the classroom. When, for whatever reason, we cut a class short, the general response is one of delight. Likewise, when we utter the magic words "...well, we're almost out of time. Let's leave it there". There has never been a known case, anywhere, of students forming an angry mob, demanding that the class be completed strictly as planned.
+This expression certainly raised an eyebrow at the time. But the more I thought about it, the more I realised that it reveals a deeper, slightly unnerving, truth about our work. It's hard to imagine someone going to a concert, a cinema or a restaurant with a similar attitude _"Well pardon me! I am paying for this, but... I insist the band cuts their set short. I insist they don't show the whole film. I insist the portions should be small!"_ And yet that's the way it is in the classroom. When, for whatever reason, we cut a class short, the general response is one of delight. Likewise, when we utter the magic words "...well, we're almost out of time. Let's leave it there". There has never been a known case, anywhere, of students forming an angry mob, demanding that the class be completed strictly as planned.
 
 In the eyes of our students, we are examiner first and teacher second. We like to think of ourselves a collaborators, working and learning alongside our students, but in their eyes, we are judge and jury. 
 
@@ -37,11 +37,11 @@ Discovering computer-assisted peer-evaluation has restored my faith in education
 
 # What is a peer-assessment Workshop?
 
-In a paired activity assigned to students, rather than simply submitting the exercise, we also require them to assess submissions from other students. This can be in the form of a simple questionaire, rubric, or some other framework provided by the teacher. Teachers have been doing this kind of thing in classrooms since the year dot, providing simple forms between pairs and calculating a mark by hand. Nothing new there.
+In a paired activity assigned to students, rather than each student simply submitting the exercise, we also require them to assess submissions from other students. This can be in the form of a simple questionnaire, rubric, or some other framework provided by the teacher. Teachers have been doing this kind of thing in classrooms since the year dot, providing simple forms between pairs and calculating a mark by hand. Nothing new there.
 
 # Where does Moodle come in?
 
-This free, open-source software allows us to do the above online, but that also allows us to put order to the submitted work and the teacher's crosses in a way that a student can peer-evalulate not just their partner's or group's work, but many more. Moodle will also help with the distrubition of feedback between students and calculating scores for work. It will publish and share those results too. Teachers can of course do this by hand, but at the cost of a lot of extra work and obscene amount of time.
+Moodle is a free, open-source software platform that allows us to manage the above online. It handles the intials submissions and the later assessments in such a way that a student can peer-assess not only their partner's or group's work, but as many students as is required. Moodle will also help distribute feedback to students and handling the calculations required for grading the work. It will publish and share those results too. The teacher could, of course, do this by hand, but at the cost of a lot of extra work and an obscene amount of time.
 
 # And when does it become indispensible?
 
