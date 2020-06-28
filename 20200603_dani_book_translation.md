@@ -102,3 +102,13 @@ That said:
 I promise you, it is worth it. You are starting a fascinating journey. After twenty years in teaching, sometimes successful, sometimes not, I discovered computer-aided peer-assessment. I now feel, for the first time, that my time is spent building things that are truly worthwhile, and that deliver results, week in, week out.
 
 \* If you are really looking to improve scores in these surveys, I recommend you read The Presentation Secrets of Steve Jobs by Carmine Gallo and Brain Rules by the neurologist John Medina. Our audience is in the classroom and these two books, though not specifically about teaching, caused a sea change in my approach to lecturing. What I picked up from these books worked from day one, but that is for another book...
+
+# Blurb
+
+It is becoming increasingly costly, time-consuming and routine for teachers to correct our students' exercises. In addition, by monopolising this work, we are depriving them of the chance to develop two of the superior cognitive capacities in Bloom's taxonomy (Analysis and Evaluation) and thus achieving 'real learning'.
+
+This illustrated guide explains, from scratch, how to use the Moodle 'Workshop' tool so that students can correct each other's exercises. This way, they learn twice; first while completing their own exercise, then secondly while reviewing others' work by means of rubrics.
+
+The computer will not only calculate (automatically) the grade assigned to each student. More importantly, it will also assess and grade each peer-assessor; for how well they have detected errors and rewarded the merit of their fellow students. The student cohort begins to self-manage. The model is scalable, and indeed becomes even more reliable the more students participate and the larger the sample becomes.
+
+In addition to explaining, step-by-step, the intricate operation of the tool, the book offers practical tips and tricks derived from the extensive experience of its author, a University professor of many years standing.
